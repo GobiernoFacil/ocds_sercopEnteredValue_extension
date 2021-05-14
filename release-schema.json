@@ -7,8 +7,8 @@
           "description" : "eferjfiojerofjijore",
           "$ref": "#/definitions/Value"
         },
-        "fixedValue" : {
-          "title" : "fixed value",
+        "correctedValue" : {
+          "title" : "corrected value",
           "description" : "eferjfiojerofjijore",
           "$ref": "#/definitions/Value"
         }
