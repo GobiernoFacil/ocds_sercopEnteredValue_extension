@@ -1,0 +1,20 @@
+{
+  "name": {
+    "es" : "valor capturado",
+    "en" : "value entered" 
+  },
+  "description": {
+    "es" : "yadaydayddydyaa",
+    "en" : "tereirheiurherifhiuer"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en" : "https://github.com/GobiernoFacil/ocds_valueEntered_extension",
+    "es" : "https://github.com/GobiernoFacil/ocds_valueEntered_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ]
+}
