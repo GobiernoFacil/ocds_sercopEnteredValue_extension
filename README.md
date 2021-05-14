@@ -1,1 +1,14 @@
-# ocds_sercopEnteredValue_extension
+# ocds Entered value extension
+En algunos casos 
+
+## Example
+```
+{
+  "awards" : [
+    "enteredValue" : {
+      "amount" : 234000,
+      "currency" : "USD"
+    }
+  ]
+}
+```
