@@ -9,7 +9,7 @@ En algunos casos
       "amount" : 234000,
       "currency" : "USD"
     },
-    "fixedValue" : {
+    "correctedValue" : {
       "amount" : 234000,
       "currency" : "USD"
     }
