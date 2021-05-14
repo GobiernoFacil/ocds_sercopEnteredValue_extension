@@ -8,6 +8,10 @@ En algunos casos
     "enteredValue" : {
       "amount" : 234000,
       "currency" : "USD"
+    },
+    "fixedValue" : {
+      "amount" : 234000,
+      "currency" : "USD"
     }
   ]
 }
