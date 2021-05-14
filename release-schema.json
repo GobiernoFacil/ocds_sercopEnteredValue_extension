@@ -1,0 +1,19 @@
+
+{
+  "definitions" : {
+    "Award" : {
+      "properties" : {
+        "valueEntered" : {
+          "title" : "value entered",
+          "description" : "eferjfiojerofjijore",
+          "$ref": "#/definitions/Value"
+        },
+        "valueFixed" : {
+          "title" : "value fixed",
+          "description" : "eferjfiojerofjijore",
+          "$ref": "#/definitions/Value"
+        }
+      }
+    }    
+  }
+}
