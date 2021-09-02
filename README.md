@@ -5,13 +5,15 @@ Se refiere al ajuste metodológico realizado a los valores atípicos de adjudica
 ```
 {
   "awards" : [
-    "enteredValue" : {
-      "amount" : 234000,
-      "currency" : "USD"
-    },
-    "correctedValue" : {
-      "amount" : 20000,
-      "currency" : "USD"
+    {
+      "enteredValue" : {
+        "amount" : 234000,
+        "currency" : "USD"
+      },
+      "correctedValue" : {
+        "amount" : 20000,
+        "currency" : "USD"
+      }
     }
   ]
 }
