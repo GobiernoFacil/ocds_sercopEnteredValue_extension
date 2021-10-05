@@ -1,6 +1,6 @@
 {
   "definitions" : {
-    "Award" : {
+    "unit" : {
       "properties" : {
         "enteredValue" : {
           "title" : "entered value",
