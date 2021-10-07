@@ -1,16 +1,20 @@
 {
   "definitions" : {
-    "unit" : {
+    "Item" :{
       "properties" : {
-        "enteredValue" : {
-          "title" : "entered value",
-          "description" : "valor capturado en la plataforma de adquisiciones",
-          "$ref": "#/definitions/Value"
-        },
-        "correctedValue" : {
-          "title" : "corrected value",
-          "description" : "ajuste metodológico realizado a los valores atípicos de adjudicación",
-          "$ref": "#/definitions/Value"
+        "unit" : {
+          "properties" : {
+            "enteredValue" : {
+              "title" : "entered value",
+              "description" : "valor capturado en la plataforma de adquisiciones",
+              "$ref": "#/definitions/Value"
+            },
+            "correctedValue" : {
+              "title" : "corrected value",
+              "description" : "ajuste metodológico realizado a los valores atípicos de adjudicación",
+              "$ref": "#/definitions/Value"
+            }
+          }
         }
       }
     },
